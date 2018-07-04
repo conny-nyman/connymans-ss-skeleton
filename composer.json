@@ -30,7 +30,7 @@
             "web.config"
         ],
         "expose": [
-            "themes/connyman"
+            "themes/connyman/dist"
         ]
     },
     "config": {
