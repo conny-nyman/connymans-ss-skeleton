@@ -1,7 +1,7 @@
 {
-    "name": "silverstripe/installer",
-    "type": "silverstripe-recipe",
-    "description": "The SilverStripe Framework Installer",
+    "name": "conny-nyman/connymans-ss-skeleton",
+    "type": "silverstripe-theme",
+    "description": "A SilverStripe Bootstrap theme with Laravel mix",
     "require": {
         "php": ">=5.6.0",
         "silverstripe/recipe-plugin": "^1",
